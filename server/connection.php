@@ -3,7 +3,7 @@
 class Connection {
 
 	private $host = '';
-	private $dbname = '';
+	private $dbname = 'everclone';
 	private $user = '';
 	private $pass = '';
 
